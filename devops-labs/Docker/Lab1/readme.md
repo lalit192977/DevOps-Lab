@@ -1,12 +1,35 @@
-# Docker Lab 1 – Basic Docker Commands
+# Docker Lab 1: Mastering Basic Docker Commands
 
-This lab covers essential Docker commands such as checking versions, running containers, inspecting images, removing containers/images, and cleanup.
+## 🧠 Overview
+This lab introduces foundational Docker commands to manage containers, images, and volumes effectively. It's part of the DevOps learning path from the KodeKloud Docker Course.
 
-## 📸 Screenshots
-See the `screenshots/` folder for command outputs.
+## 🎯 Learning Objectives
+- Start, stop, and manage containers
+- Work with images: pull, view, delete
+- Use filters for querying containers
+- Efficiently clean up Docker workspace
 
-## 📜 Commands Covered
-See [commands.md](commands.md) for all terminal commands used in this lab.
+## 🖥 Lab Environment
+- Platform: KodeKloud
 
-## 🔥 Objective
-To gain a hands-on understanding of basic Docker commands used in daily DevOps tasks.
+
+## 🚀 Getting Started
+
+
+Open `commands.md` for step-by-step CLI and refer to screenshots for visual cues.
+
+## ✅ Tasks Summary
+1. Checked Docker version/config
+2. Deployed NGINX container
+3. Analyzed running containers and images
+4. Deployed & stopped Redis container
+5. Used filters to analyze Alpine containers
+6. Removed all containers & images
+7. Pulled and ran an older nginx version
+
+## 🖼 Screenshots
+Please see `/screenshots` folder for labeled visuals of each step.
+
+## 🔗 Resources
+- [Docker Docs](https://docs.docker.com/)
+- [KodeKloud Course](https://kodekloud.com/)

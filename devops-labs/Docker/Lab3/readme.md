@@ -12,8 +12,6 @@ This lab explores advanced Docker container management focusing on environment v
 
 ## Lab Environment
 - **Platform**: KodeKloud Docker Labs
-- **Docker Version**: [Your version]
-- **Date Completed**: [Date]
 - **Containers Used**: 
   - `kodekloud/simple-webapp`
   - `mysql:latest`
